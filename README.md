@@ -5,6 +5,10 @@
 
 This is my Data Science portfolio with projects I did to expand my knowledge in the area and keep myself in fit.
 
+## Technical details
+
+I mostly use Anaconda and its virtual environment for my projects. However, sometimes I do experiment with various packages and their versions, including Python versions. But usually, I use standard packages, meaning that the requirements files will be included for only those projects that use some very specific or out-of-the-box packages.
+
 ## Contents of this portfolio
 
 ### Data Analysis and Visualization
